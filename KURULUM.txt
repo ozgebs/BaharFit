@@ -1,0 +1,9 @@
+BAHARFIT
+
+1. HIZLI DENEME: BaharFit.html dosyasını telefonunuzda destekleyen bir tarayıcıda açın. Dosya önizleyicileri tüm işlevleri desteklemeyebilir.
+
+2. ANA EKRANA KURULUM: bahar-spor klasöründeki index.html, manifest.webmanifest, icon.svg ve sw.js dosyalarını HTTPS destekli statik bir web sitesine birlikte yükleyin (ör. GitHub Pages veya Netlify Drop). iPhone Safari’de yayınlanan adresi açıp Paylaş > Ana Ekrana Ekle yolunu izleyin. Android Chrome’da menü > Uygulamayı yükle / Ana ekrana ekle.
+
+3. VERİ GÜVENLİĞİ: Antrenman verileri cihazın tarayıcı belleğindedir; yayınlanan statik siteye gönderilmez. Silinmeye karşı Ayarlar > Yedek indir özelliğini düzenli kullanın. Farklı tarayıcılar, özel mod veya tarayıcı verilerini temizlemek kayıtların kaybolmasına neden olabilir.
+
+4. KISIT: Uygulama mağazasından yüklenen yerel bir iOS/Android uygulaması değil; kurulabilir bir web uygulamasıdır (PWA). Yayınlama, ilk kurulum için gereklidir.
